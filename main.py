@@ -1,3 +1,6 @@
+def nova_funkcija():
+    return "Ovo je nova funkcija."
+    
 def main():
     print("Hello world!")
 
